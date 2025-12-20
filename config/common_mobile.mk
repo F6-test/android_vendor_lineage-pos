@@ -85,6 +85,10 @@ PRODUCT_PACKAGES += \
     IconShapeSquircleOverlay \
     IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
+    IconShapeIosOverlay \
+    IconShapeArchOverlay \
+    IconShapeSevenSidedCookieOverlay \
+    IconShapeFourSidedCookieOverlay \
     IconShapeVesselOverlay
 
 # Legal
