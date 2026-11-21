@@ -149,6 +149,9 @@ PRODUCT_PACKAGES += \
     bootanimation-dark.zip
 endif
 
+# IconShape
+$(call inherit-product, vendor/lineage/themes/iconshapes/iconshapes.mk)
+
 # Lineage interfaces
 PRODUCT_PACKAGES += \
     framework_compatibility_matrix.lineage.xml
